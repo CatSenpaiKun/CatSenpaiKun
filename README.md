@@ -2,6 +2,7 @@
 <h3 align="center">The cutest Skid Around <3<3</h3>
 
 - Currently Im wanting dev work UWU HIRE ME IM BORED **<3<3**
+- Also Get amazon prime right now or you're not a PRIME GAMER **ᵃ⤻ᶻ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
