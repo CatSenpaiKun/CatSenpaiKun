@@ -16,9 +16,6 @@
 - Spartan is Pog I am a furry - Note Spartan said this not me  
   
 
--   
-  
-
 <br/>  
 
 
