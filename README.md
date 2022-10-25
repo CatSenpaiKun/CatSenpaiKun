@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hello, I am Cat / Kitten  
-                                  The cutest Skid Around <3<3</div>  
+                                  The cutest Skid Around <3<3 
   
 
 - Currently Im wanting dev work UWU HIRE ME IM BORED <3<3  
