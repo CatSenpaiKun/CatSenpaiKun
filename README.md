@@ -3,6 +3,7 @@
 
 - Currently Im wanting dev work UWU HIRE ME IM BORED **<3<3**
 - Also Get amazon prime right now or you're not a PRIME GAMER **ᵃ⤻ᶻ**
+- Spartan is Pog I am a furry - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
