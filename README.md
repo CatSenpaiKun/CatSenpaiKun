@@ -45,18 +45,6 @@
 <a href="https://discord.gg/erpers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erpers" height="30" width="40" /></a>
 </a>  
 </div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cxpmn0cukxbjngap5afo5lkyo&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
