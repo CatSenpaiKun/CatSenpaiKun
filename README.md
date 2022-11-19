@@ -4,10 +4,10 @@
   
 
 ### <div align="center">Hello, I am Cat / Kitten  
-<div align="center">The cutest Skid Around <3<3 
+<div align="center">Pro Paster <3<3 
   
 
-- Currently Im wanting dev work UWU HIRE ME IM BORED <3<3  
+- Currently working on something <3<3  
   
 
 - Also Get amazon prime right now or you're not a PRIME GAMER ᵃ⤻ᶻ  
