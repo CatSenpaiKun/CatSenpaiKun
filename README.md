@@ -7,7 +7,7 @@
 <div align="center">Pro Paster <3<3 
   
 
-- Currently working on something <3<3  
+- Currently Being a better paster than you ever will
   
 
 - Also Get amazon prime right now or you're not a PRIME GAMER ᵃ⤻ᶻ  
