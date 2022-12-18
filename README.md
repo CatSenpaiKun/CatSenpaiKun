@@ -14,7 +14,10 @@
   
 
 - Spartan is Pog I am a furry - Note Spartan said this not me  
-  
+
+  ### <div align="center">Websites  
+- kitechnology.xyz | kitteninc.cc
+
 
 <br/>  
 
