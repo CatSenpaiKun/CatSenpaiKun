@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hello, I am Cat / Kitten  
-<div align="center">Pro Paster <3<3 
+<div align="center">Pro Kitten <3<3 
   
 
 - Currently Being a better paster than you ever will
