@@ -19,6 +19,16 @@
 - kitechnology.xyz | kitteninc.cc
 
 
+
+
+  ### <div align="center">Current Projects  
+
+- Wholesome Vrc
+- Wholesome Woofer
+- Cks Eft
+- Cks Rust
+- Cks UI Designs
+
 <br/>  
 
 
