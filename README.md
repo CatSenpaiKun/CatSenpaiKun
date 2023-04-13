@@ -7,7 +7,7 @@
 <div align="center">Pro Kitten <3<3 
   
 
-- Currently Being a better paster than you ever will
+- Currently Being a better paster than you ever will, Aka your Fav p2c Paster
   
 
 - Also Get amazon prime right now or you're not a PRIME GAMER ᵃ⤻ᶻ  
@@ -19,24 +19,13 @@
 - kitechnology.xyz | kitteninc.cc
 
 
-
-
-  ### <div align="center">Current Projects  
-
-- Wholesome && Cks Products
-
-
 <br/>  
 
 
-
-
 </td><td valign="top" width="33%">
 
 
-
 </td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
