@@ -7,7 +7,7 @@
 <div align="center">Pro Kitten <3<3 
   
 
-- Currently Being a better paster than you ever will, Aka your Fav p2c Paster
+- CATS CATS CATS CATS CATS CATSSSSSSSSSSSSSSSSS CATSSSSSS
   
 
 - Also Get amazon prime right now or you're not a PRIME GAMER ᵃ⤻ᶻ  
