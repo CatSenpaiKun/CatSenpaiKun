@@ -15,12 +15,18 @@
 
 - Spartan is Pog I am a furry - Note Spartan said this not me  
 
-  ### <div align="center">Websites  
-- kitechnology.xyz | kitteninc.cc
+
+### <div align="center">Websites  
+kitechnology.xyz | kitteninc.cc
 
 
 <br/>  
 
+  ### <div align="center">About Me 
+
+A Private Developer, I enjoy Security SDK Devleopment and Software Obsfucation, I also enjoy Software Reversal and Game Modification
+
+    For any inquiries DM - Mr.cat#6980
 
 </td><td valign="top" width="33%">
 
