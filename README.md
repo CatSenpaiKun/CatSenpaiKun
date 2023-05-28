@@ -24,7 +24,7 @@ kitechnology.xyz | kitteninc.cc
 
   ### <div align="center">About Me 
 
-Experience, 3Y C# | 1Y C++ | 1Y Unity and Blender 
+Experience, 3Y C# | 1Y C++ | Html,PHP,JS 1M | 1Y Unity and Blender 
 
 A Private Developer, I enjoy Security SDK Devleopment and Software Obsfucation, I also enjoy Software Reversal and Game Modification
 
