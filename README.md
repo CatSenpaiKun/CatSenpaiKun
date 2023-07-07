@@ -9,8 +9,6 @@
 
 - CATS CATS CATS CATS CATS CATSSSSSSSSSSSSSSSSS CATSSSSSS
   
-
-- Also Get amazon prime right now or you're not a PRIME GAMER ᵃ⤻ᶻ  
   
 
 - Spartan is Pog I am a furry - Note Spartan said this not me  
