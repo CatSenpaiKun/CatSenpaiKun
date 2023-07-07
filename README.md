@@ -4,7 +4,6 @@
   
 
 ### <div align="center">Hello, I am Cat / Kitten  
-<div align="center">Pro Kitten <3<3 
   
 
 - CATS CATS CATS CATS CATS CATSSSSSSSSSSSSSSSSS CATSSSSSS
