@@ -28,7 +28,7 @@ Experience, 3Y C# | 1Y C++ | Html,PHP,JS 1M | 1Y Unity and Blender
 
 <div align="center">
 
-A Private Developer, I enjoy Security SDK Devleopment and Software Obsfucation, I also enjoy Software Reversal and Game Modification
+A Private Developer, I enjoy Security SDK Devleopment and Software Obfuscation, I also enjoy Software Reversal and Game Modification
 
 
 ㅤㅤFor any inquiries DM - wasntcat
