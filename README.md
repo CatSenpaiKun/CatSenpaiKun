@@ -1,57 +1,47 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/924259424518930454/1020595909148557362/ffwararwarwaadfafwwa.gif" align="center" style="width: 100%" />
+  <img src="https://media.discordapp.net/attachments/924259424518930454/1020595909148557362/ffwararwarwaadfafwwa.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">Hello, I am Cat / Kitten  
-  
+# <div align="center">👋 Introduction
 
 <div align="center">
-
-
-- CATS CATS CATS CATS CATS CATSSSSSSSSSSSSSSSSS CATSSSSSS
   
-  
+- 😺 Hello, I'm Cat / Kitten  
+- 🛡️ Spartan is Pog, and I'm a furry (Note: Spartan said this, not me)
 
-- Spartan is Pog I am a furry - Note Spartan said this not me  
-
-
-### <div align="center">Websites  
-kitechnology.xyz | kitteninc.cc
-
+# <div align="center">🌐 Websites  
+[kitechnology.xyz](https://kitechnology.xyz) | [kitteninc.cc](https://kitteninc.cc)
 
 <br/>  
 
-  ### <div align="center">About Me 
+# <div align="center">🧑‍💻 Skills & Experience
 
-Experience, 3Y C# | 1Y C++ | Html,PHP,JS 1M | 1Y Unity and Blender 
+- 💼 **Programming Languages:** 3 years of experience in C#, 1 year in C++
+- 💼 **Web Development:** Proficient in HTML, PHP, and JavaScript (1 month)
+- 💼 **Game Development:** 1 year of experience with Unity and Blender
+
+# <div align="center">💡 About Me 
 
 <div align="center">
+  
+I'm a Private Developer with a passion for:
 
-A Private Developer, I enjoy Security SDK Devleopment and Software Obfuscation, I also enjoy Software Reversal and Game Modification
+- 🛡️ Security SDK Development
+- 🌐 Software Obfuscation
+- 🔍 Software Reversal
+- 🎮 Game Modification
 
+Feel free to reach out for any inquiries: [@wasntcat](https://github.com/wasntcat)
 
-ㅤㅤFor any inquiries DM - wasntcat
-
-
-</td><td valign="top" width="33%">
-
-
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
+</div>
 
 <br/>  
 
-
-## Other info 
+# 📝 Other Info 
 <div align="center">
-<a href="https://discord.gg/RY9naVQMNK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RY9naVQMNK" height="35" width="40" /></a>
-</a>  
+  <a href="https://discord.gg/RY9naVQMNK" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join my Discord" height="35" width="40" /></a>
 </div>  
 
 <br />
 
-----
-
+---
