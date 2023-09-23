@@ -31,7 +31,7 @@ I'm a Private Developer with a passion for:
 - 🔍 Software Reversal
 - 🎮 Game Modification
 
-Feel free to reach out for any inquiries: [@wasntcat](https://github.com/wasntcat)
+Feel free to reach out for any inquiries: @wasntcat
 
 </div>
 
