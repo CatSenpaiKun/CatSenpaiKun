@@ -9,8 +9,8 @@
 - 😺 Hello, I'm Cat / Kitten  
 - 🛡️ Spartan is Pog, and I'm a furry (Note: Spartan said this, not me)
 
-# <div align="center">🌐 Websites  
-[kitechnology.xyz](https://kitechnology.xyz) | [kitteninc.cc](https://kitteninc.cc)
+ <!-- #  <div align="center">🌐 Websites  -->
+[kitechnology.xyz](https://kitechnology.xyz) <!--|   [kitteninc.cc](https://kitteninc.cc)-->
 
 <br/>  
 
