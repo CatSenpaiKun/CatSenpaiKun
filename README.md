@@ -24,9 +24,9 @@
 <div align="center">
   <h2>🧑‍💻 Skills & Experience</h2>
   <ul>
-    <li>💼 <strong>Programming Languages:</strong> 3 years of experience in C#, 1 year in C++</li>
-    <li>💼 <strong>Web Development:</strong> Proficient in HTML, PHP, and JavaScript (1 month)</li>
-    <li>💼 <strong>Game Development:</strong> 1 year of experience with Unity and Blender</li>
+    <li>💼 <strong>Programming Languages :</strong> 3 years of experience in C#, 1 year in C++</li>
+    <li>💼 <strong>Web Development :</strong> Proficient in HTML, PHP, and JavaScript (1 month)</li>
+    <li>💼 <strong>Game Development :</strong> 1 year of experience with Unity and Blender</li>
   </ul>
 </div>
 
