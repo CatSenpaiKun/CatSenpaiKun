@@ -7,7 +7,7 @@
    😺 Hello, I'm Cat / Kitten 
   </p>
   <p>
-    🛡️ Spartan is Pog, and I'm a furry (Note: Spartan said this, not me)
+    🛡️ Spartan is Pog, and I'm a furry (Note Spartan said this, not me)
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   <h2>🌐 Websites</h2>
-  <p>Currently, all sites/APIs are down.</p>
+  <p>Currently, all sites/APIs are down</p>
   <!-- [kitechnology.xyz](https://kitechnology.xyz) | [kitteninc.cc](https://kitteninc.cc) -->
 </div>
 
@@ -42,6 +42,17 @@
     <li>🌐 Software Obfuscation</li>
     <li>🔍 Software Reversal</li>
     <li>🎮 Game Modification</li>
+  </ul>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🔍 WorkSpaces</h2>
+  <ul>
+    <li><strong> Starship Industries :</strong> as UI/UIX, Software Developer </li>
+    <li><strong> KI :</strong> Owner, Head of Development  </li>
+    <li><strong> WC :</strong> Staff and Moderation </li>
   </ul>
 </div>
 
