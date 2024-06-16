@@ -62,8 +62,7 @@
   <h2>🚀 Current Projects</h2>
   <ul>
     <li><strong> KI :</strong> streamlined Public and Private Software Development</li>
-    <li><strong> NOIR :</strong> Private Software with Support for Multiple titles </li>
-    <li><strong> NACHT :</strong> Public Internal GT Mod</li>
+    <li><strong> NOIR :</strong> Private/Semi Public Software with Support for Multiple titles </li>
   </ul>
 </div>
 
