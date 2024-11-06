@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Wasntcat/Wasntcat/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Wasntcat/Wasntcat/github-user-contribution.svg" alt="Snake animation" />
 
 ###
