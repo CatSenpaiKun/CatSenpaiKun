@@ -52,7 +52,5 @@
 
 <br clear="both">
 
-[<img src="[https://raw.githubusercontent.com/Wasntcat/Wasntcat/github-user-contribution.svg](https://raw.githubusercontent.com/WasntCat/WasntCat/refs/heads/main/github-user-contribution.svg)" alt="Snake animation" />
-](https://raw.githubusercontent.com/WasntCat/WasntCat/refs/heads/main/github-user-contribution.svg)
 
 ###
